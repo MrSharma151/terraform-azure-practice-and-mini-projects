@@ -1,0 +1,43 @@
+# ------------------------------------------------------------
+# Terraform files
+# ------------------------------------------------------------
+
+# Local Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.backup
+
+# Terraform working directory
+.terraform/
+
+# Terraform lock file (KEEP this, so do NOT ignore)
+# .terraform.lock.hcl
+
+# Crash log files
+crash.log
+
+# ------------------------------------------------------------
+# Variable files (may contain sensitive data)
+# ------------------------------------------------------------
+*.tfvars
+*.tfvars.json
+
+# ------------------------------------------------------------
+# Environment variable files
+# ------------------------------------------------------------
+.env
+.env.*
+
+# ------------------------------------------------------------
+# IDE / Editor files
+# ------------------------------------------------------------
+.vscode/
+.idea/
+
+# ------------------------------------------------------------
+# OS generated files
+# ------------------------------------------------------------
+.DS_Store
+Thumbs.db
+
