@@ -7,7 +7,7 @@ The infrastructure is built around an **Azure Virtual Machine Scale Set (VMSS)**
 
 The goal of this project is to practice **Infrastructure as Code (IaC)** concepts, Azure networking fundamentals, and VMSS-based architectures commonly used in production environments.
 
-![Project Architecture](<ChatGPT Image Dec 30, 2025, 10_46_32 PM.png>)
+![vmss-mini-project-architecture](vmss-mini-project.png)
 
 ---
 

@@ -5,6 +5,7 @@ This mini project demonstrates how to securely connect virtual machines deployed
 
 The focus of this project is **networking flow and security design**, not application deployment.
 
+![vnet-peering-mini-project-architecture](vnet-peering-mini-project.png)
 ---
 
 ## High-Level Architecture Flow
