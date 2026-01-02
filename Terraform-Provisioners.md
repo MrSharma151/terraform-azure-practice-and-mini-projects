@@ -245,7 +245,7 @@ This makes provisioners **unsafe for production environments**.
 
 ---
 
-## 10. best practices (must-know for interviews)
+## 10. best practices 
 
 * Avoid provisioners whenever possible
 * Never use provisioners for configuration management
